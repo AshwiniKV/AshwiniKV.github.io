@@ -6,7 +6,7 @@ I received a Diploma in Economics from the University of London in 2009, a B.Sc.
 
 I was born in India and raised in the expatriate community in Dubai, United Arab Emirates. I speak English as a first language and have varying degrees of proficiency in other languages that include Arabic, Tamil, Hindi, and Telugu. In my spare time, I like to drink tea, dream on rainy days, and visit castles in Scotland.
 
-[Link to another page](another-page).
-[Link to another page](another-page).
+[Education](another-page).
+[Teaching](another-page).
 
 
