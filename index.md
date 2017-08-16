@@ -1,4 +1,4 @@
-## Ashwini Venkatasubramaniam
+## About me:
 
 I am currently a PhD student at the University of Glasgow, United Kingdom and expect to graduate in October 2018.  My PhD research is focused on  developing "Spatial clustering techniques for  urban road networks using spatio-temporal data".
 
