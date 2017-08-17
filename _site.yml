@@ -3,9 +3,9 @@ name: "Ashwini Venkatasubramaniam"
 output_dir: "."
 navbar:
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Education"
+      href: education.html
 
          
