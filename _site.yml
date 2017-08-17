@@ -2,7 +2,6 @@
 name: "Ashwini Venkatasubramaniam"
 output_dir: "."
 navbar:
-  title: "Ashwini's Website"
   left:
     - text: "Home"
       href: index.html
