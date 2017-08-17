@@ -1,9 +1,14 @@
-name: "nicks-website"
+
+name: "Ashwini Venkatasubramaniam"
 output_dir: "."
 navbar:
-  title: "Nicks Website"
+  title: "Ashwini's Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+ output:
+  html_document:
+    theme: flatly
+         
