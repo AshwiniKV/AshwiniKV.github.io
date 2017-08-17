@@ -1,3 +1,4 @@
+
 name: "Ashwini Venkatasubramaniam"
 output_dir: "."
 navbar:
@@ -7,3 +8,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+ output:
+  html_document:
+    theme: flatly
+         
