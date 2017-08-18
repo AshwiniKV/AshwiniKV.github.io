@@ -1,4 +1,5 @@
 
+
 output_dir: "."
 navbar:
   title: "Ashwini Venkatasubramaniam"
@@ -11,5 +12,7 @@ navbar:
       href: PhD Research.html
     - text: "Publications"
       href: publications.html
+    - text: "Visualization"
+      href: visualization.html
 
          
