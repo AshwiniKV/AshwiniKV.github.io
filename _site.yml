@@ -12,8 +12,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Visualization"
-      href: visualization.html
-      
+      href: visualization.html    
   output:
   rmarkdown::html_document:
     theme: cosmo
