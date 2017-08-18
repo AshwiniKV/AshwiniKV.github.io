@@ -1,7 +1,6 @@
 
 output_dir: "."
 navbar:
-  title: "Ashwini Venkatasubramaniam"
   left:
     - text: "About Me"
       href: about.html
