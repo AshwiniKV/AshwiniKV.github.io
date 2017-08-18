@@ -1,4 +1,4 @@
-
+F
 output_dir: "."
 navbar:
   title: "Ashwini Venkatasubramaniam"
@@ -16,7 +16,7 @@ navbar:
       
   output:
   html_document:
-    theme: flatly
+    theme: Flatly
     
 
 
