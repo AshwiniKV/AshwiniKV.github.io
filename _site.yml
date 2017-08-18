@@ -16,7 +16,7 @@ navbar:
     - text: "Visualization"
       href: visualization.html
 output:
-  html_document:
+  prettydoc::html_pretty:
     theme: cayman
 
          
