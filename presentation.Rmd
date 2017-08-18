@@ -1,5 +1,6 @@
+<br>
 
-#### Conferences: 
+### Conferences: 
 
 - Joint Statistical Meetings, *Baltimore, United States*, (August 2nd 2017) - Contributed Talk
 - International Workshop on Statistical Modelling, *Groningen, Netherlands*, (July 3rd 2017) - Oral Presentation
