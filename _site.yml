@@ -3,9 +3,11 @@ output_dir: "."
 navbar:
   title: "Ashwini Venkatasubramaniam"
   left:
-    - text: "Presentation"
-      href: presentation.html
+    - text: "Presentations"
+      href: presentations.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Publications"
+      href: publications.html
 
          
