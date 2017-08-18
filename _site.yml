@@ -15,7 +15,7 @@ navbar:
       href: visualization.html
       
   output:
-  html_document:
+  rmarkdown::html_document:
     theme: Flatly
     
 
