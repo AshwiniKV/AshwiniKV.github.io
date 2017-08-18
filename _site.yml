@@ -2,6 +2,9 @@
 output_dir: "."
 navbar:
   title: "Ashwini Venkatasubramaniam"
+  output:
+  rmarkdown::html_document:
+    theme: lumen
   left:
     - text: "Presentations"
       href: presentations.html
