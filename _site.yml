@@ -1,4 +1,4 @@
-
+:
 
 
 output_dir: "."
@@ -16,7 +16,7 @@ navbar:
     - text: "Visualization"
       href: visualization.html
 output:
-  html_document
+  html_document:
     theme: cosmo
 
          
