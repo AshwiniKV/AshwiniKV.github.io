@@ -1,5 +1,3 @@
 ---
 title: "Ashwini Venkatasubramaniam"
 ---
-
-Hello, World!
