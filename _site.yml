@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Presentations"
       href: presentation.html
-    - text: "Education"
-      href: education.html
+    - text: "Teaching"
+      href: teaching.html
 
          
