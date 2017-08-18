@@ -8,7 +8,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "PhD Research"
-      href: phdresearch.html
+      href: PhD Research.html
     - text: "Publications"
       href: publications.html
 
