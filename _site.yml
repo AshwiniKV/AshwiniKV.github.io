@@ -16,7 +16,7 @@ navbar:
       
   output:
   rmarkdown::html_document:
-    theme: Flatly
+    theme: cosmo
     
 
 
