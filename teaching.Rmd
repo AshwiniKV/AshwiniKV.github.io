@@ -1,15 +1,15 @@
-#### University of Glasgow 
+<br />
+
+#### <span style="color:dark blue"> **University of Glasgow** </span>
 
 - *Demonstrator*, Transportation Systems Engineering, (January - April 2015 & 2016, September 2016, September 2017)
     - Instructor:  Konstantinos Ampountolas, School of Engineering
-
 - *Tutor*, Statistical Inference, (October - December 2015)
     - Instructor:  Claire Miller, School of Mathematics and Statistics 
-
 - *Tutor*, Regression Methods, (October - December 2015)
     - Instructor:  Surajit Ray, School of Mathematics and Statistics
 
-#### University of Minnesota-Twin Cities
+#### <span style="color:dark blue"> **University of Minnesota-Twin Cities** </span>
 
 - *Assistant*, Research Experience for Undergraduates (REU), (June 9th - July 18th 2014)
     - Problem Poser: Julian Wolfson, Division of Biostatistics, University of Minnesota.
@@ -21,3 +21,4 @@
 
 - *Teaching Assistant* - Biostatistics I, (Spring 2013)
     - Instructor:  Julian Wolfson 
+   
