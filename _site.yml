@@ -14,8 +14,9 @@ navbar:
     - text: "Visualization"
       href: visualization.html    
   output:
-    html_document:
-    theme: cosmo
+  html_document:
+    theme: united
+
     
 
 
