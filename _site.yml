@@ -17,6 +17,6 @@ navbar:
       href: visualization.html
 output:
   html_document:
-    theme: cosmo
+    theme: cayman
 
          
