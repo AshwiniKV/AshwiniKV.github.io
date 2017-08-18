@@ -13,9 +13,6 @@ navbar:
       href: publications.html
     - text: "Visualization"
       href: visualization.html    
- output:
- html_document:
-   theme: united
 
     
 
