@@ -4,13 +4,22 @@
 
 - Reeta Bora, Sk Shamim Akhtar, **Ashwini Venkatasubramaniam**, Julian Wolfson, Raghavendra Rao (2015), Effect of 40-cm segment umbilical cord milking on hemoglobin and serum ferritin at six months of age in full term infants of anemic and non-anemic mothers. *Journal of Perinatology*
 
+
 #### <span style="color:dark blue"> **Submitted**</span>:
 
 - **A. Venkatasubramaniam**, J. Wolfson, N. Mitchell, T. Barnes, M. Jaka, S. French (2017), Decision Trees in Epidemiological Research, Submitted to *Emerging themes in Epidemiology*.
 
 #### <span style="color:dark blue">**In Preparation**</span>:
 - **A.Venkatasubramaniam** and J. Wolfson, Classification and regression trees for epidemiology, (Invited for Publication), *Current Epidemiology Reports*, November 2017
+
+
 - **A. Venkatasubramaniam** and J. Wolfson, visTree: Visualization for conditional inference tree (In Preparation)
+
+
 - **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Functional distributional clustering of urban traffic networks using spatio-temporal data (In Preparation)
+
+
 - **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Spatio-temporal clustering using distance dependent Chinese restaurant processes for urban traffic networks (In Preparation)
+
+
 - **A. Venkatasubramaniam**, L. Erickson, J. Wolfson, Treatment Effect Heterogeneity for Conditional Inference Trees (In Preparation) 
