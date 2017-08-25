@@ -11,7 +11,8 @@
 - *Tutor*, Regression Methods, (October - December 2015)
     - Instructor:  Surajit Ray, School of Mathematics and Statistics
     
-
+- Glasgow Science Festival    
+    
 #### <span style="color:dark blue"> **University of Minnesota-Twin Cities** </span>
 
 - *Assistant*, Research Experience for Undergraduates (REU), (June 9th - July 18th 2014)
@@ -20,6 +21,7 @@
     - Assisted the supervision of 5 undergraduates who worked on improving predictive performance of mode detection by the smartphone application.
 - *Summer Teaching Assistant* - Bio statistical Methods I, (Summer 2013)
     - Instructors: Jeremiah Menk and Laura Le
+    
 - *Teaching Assistant* - Biostatistics I, (Spring 2013)
     - Instructor:  Julian Wolfson 
    
