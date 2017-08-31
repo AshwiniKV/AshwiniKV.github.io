@@ -12,12 +12,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Visualization"
-      href: Visualization.html 
-  right:
-    - icon: fa-github fa-2x
-      href: https://github.com/AshwiniKV
-    - icon: fa-linkedin fa-2x
-      href: https://www.linkedin.com/in/ashwini-venkatasubramaniam-47b28a39/
+      href: visualization.html 
 output:
   html_document:
     theme: flatly
