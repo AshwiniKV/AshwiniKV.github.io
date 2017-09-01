@@ -1,11 +1,10 @@
----
-title: "About me: "
----
+<br />
 
-I am currently a PhD student at the University of Glasgow, United Kingdom and expect to graduate in October 2018.  My PhD research is focused on  developing "Spatial clustering techniques for  urban road networks using spatio-temporal data". My supervisors are Dr. Ludger Evers, School of Mathematics and Statistics and Dr. Konstantinos Ampountolas, School of Engineering at the University of Glasgow. I also benefit from the research environment at the Urban Big Data Centre, University of Glasgow and am currently funded by the Lord Kelvin Adam Smith scholarship.  
+### About me:
 
-Previously, I received a Diploma in Economics from the University of London in 2009, a B.Sc. in Mathematics with Economics from the University of East Anglia, UK in 2011 and a M.S. in Biostatistics from the University of Minnesota, Twin Cities in 2014. I also spent a year working in actuarial positions in Dubai, United Arab Emirates before deciding to go to graduate school. 
+I am currently a PhD student at the University of Glasgow, United Kingdom and expect to graduate in October 2018.  My PhD research is focused on  developing **"Spatial clustering techniques for  urban road networks using spatio-temporal data"**. My supervisors are Dr. Ludger Evers, School of Mathematics and Statistics and Dr. Konstantinos Ampountolas, School of Engineering at the University of Glasgow. I also benefit from the research environment at the Urban Big Data Centre, University of Glasgow and am currently funded by the Lord Kelvin Adam Smith scholarship.  
 
-I was born in India and raised in the expatriate community in Dubai, United Arab Emirates. I speak English as a first language and have varying degrees of proficiency in other languages that include Arabic, Tamil, Hindi, and Telugu. 
+Previously, I received a *Diploma in Economics* from the University of London in 2009, a *B.Sc. in Mathematics with Economics* from the University of East Anglia, UK in 2011 and a *M.S. in Biostatistics* from the University of Minnesota, Twin Cities in 2014. I also spent a year working in actuarial positions in Dubai, United Arab Emirates before deciding to go to graduate school. 
 
-In my spare time, I like to drink tea, dream on rainy days, and visit castles in Scotland.
+I was born in India and grew up in the expatriate community in Dubai, United Arab Emirates. I speak English as a first language and have varying degrees of proficiency in other languages that include Arabic, Tamil, Hindi, and Telugu. 
+

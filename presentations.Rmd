@@ -4,7 +4,7 @@
 
 - Joint Statistical Meetings, *Baltimore, United States*, (August 2nd 2017) - Contributed Talk
 - International Workshop on Statistical Modelling, *Groningen, Netherlands*, (July 3rd 2017) - Oral Presentation
-- European Research in Transportation, hEART 2016, *Delft Institute of Technology,  Netherlands*, (September 2016)
+- European Research in Transportation, hEART 2016, *Delft Institute of Technology,  Netherlands*, (September 2016) - Oral Presentation
 - International Conference on Computational Statistics, COMPSTAT, *Oviedo, Spain*, (August 2016) - Contributed Talk
 - Machine Learning Summer School, *Max Planck Institute for Intelligent Systems, Tubingen, Germany*, (July 15- 24th 2015) - Poster Presentation, Acceptance Rate - 20%  
 
