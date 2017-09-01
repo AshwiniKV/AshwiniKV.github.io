@@ -17,7 +17,7 @@ navbar:
     - icon: fa-github fa-2x
       href: https://github.com/AshwiniKV
     - icon: fa-linkedin fa-2x
-      href: https://uk.linkedin.com/in/AshwiniKV
+      href: https://www.linkedin.com/in/ashwini-venkatasubramaniam-47b28a39/
 output:
   html_document:
     theme: flatly
