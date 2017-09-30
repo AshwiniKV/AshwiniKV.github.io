@@ -11,8 +11,8 @@ navbar:
       href: PhD_Research.html
     - text: "Publications"
       href: publications.html
-    - text: "Visualization"
-      href: visualization.html   
+    - text: "Software"
+      href: Software.html   
 output:
   html_document:
     theme: cosmo
