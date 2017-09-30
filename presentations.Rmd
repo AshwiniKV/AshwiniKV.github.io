@@ -1,16 +1,18 @@
 <br />
 
-#### <span style="color:dark blue">**International Conferences**</span>: 
+<div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
 
-- Joint Statistical Meetings, *Baltimore, United States*, (August 2nd 2017) - Contributed Talk
-- International Workshop on Statistical Modelling, *Groningen, Netherlands*, (July 3rd 2017) - Oral Presentation
-- European Research in Transportation, hEART 2016, *Delft Institute of Technology,  Netherlands*, (September 2016) - Oral Presentation
-- International Conference on Computational Statistics, COMPSTAT, *Oviedo, Spain*, (August 2016) - Contributed Talk
-- Machine Learning Summer School, *Max Planck Institute for Intelligent Systems, Tubingen, Germany*, (July 15- 24th 2015) - Poster Presentation, Acceptance Rate - 20%  
+##### <span style="color:dark blue">**Presentations**</span>: 
 
-#####<span style="color:dark blue">**University of Glasgow**</span>:
+- Joint Statistical Meetings, *Baltimore, United States*, (August 2nd 2017) 
+- International Workshop on Statistical Modelling, *Groningen, Netherlands*, (July 3rd 2017)
+- European Research in Transportation, hEART 2016, *Delft Institute of Technology,  Netherlands*, (September 2016) 
+- International Conference on Computational Statistics, *Oviedo, Spain*, (August 2016) 
+- Annual PhD Talk, School of Statistics, *University of Glasgow*, (May 27th 2016 and May 18th 2017) 
+- Annual Kelvin Smith Scholar Event, Pecha Kucha Presentation, *University of Glasgow*, (November 22nd 2016)
+- Urban Big Data Centre, *University of Glasgow*, (September 22nd 2016, May 24th 2016, October 5th 2015) 
 
-- Annual Kelvin Smith Scholar Event, (November 24th 2015) - Poster Presentation
-- Annual PhD Talk, School of Statistics, (May 27th 2016 and May 18th 2017) - Oral Presentation
-- Annual Kelvin Smith Scholar Event, (November 22nd 2016) - Pecha Kucha Presentation
-- Urban Big Data Centre, (September 22nd 2016, May 24th 2016, October 5th 2015) - Oral Presentation
+##### <span style="color:dark blue">**Posters**</span>: 
+
+- Machine Learning Summer School, *Max Planck Institute for Intelligent Systems, Tubingen, Germany*, (July 15- 24th 2015), Acceptance Rate - 20%  
+- Annual Kelvin Smith Scholar Event, (November 24th 2015) 

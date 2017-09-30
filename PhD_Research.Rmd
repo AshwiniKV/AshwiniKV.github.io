@@ -1,8 +1,0 @@
-<br />
-
-The *primary focus* of the PhD project is to develop **clustering techniques** for urban road networks using **spatio-temporal data**. We utilise a downtown San Francisco grid style urban network and corresponding occupancy observations that are recorded over a period of six hours with a defined sampling rate. The observations are recorded using inductive loop detectors and are generated using an AIMSUN simulator. 
-<br />
-
-<span style="color:dark blue">**Objective:**</span> A clustering algorithm seeks to identify clusters that represent homogenous regions of congestion in a heterogenous urban network. 
-
-

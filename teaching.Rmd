@@ -1,26 +1,31 @@
 <br />
 
+<div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+
 #### <span style="color:dark blue"> **University of Glasgow** </span>
 
-- Glasgow Science Festival, *Built two Shiny applications*, June 2017   
-- *Demonstrator*, Transportation Systems Engineering, (January - April 2015 & 2016, September 2016)
-    - Instructor:  Konstantinos Ampountolas, School of Engineering
+- *Coursework preparation*, Pre-sessional Mathematics, (August - September 2017)
+    - Instructor: Dr. Charalampos Chanialidis, School of Mathematics and Economics
+- Glasgow Science Festival, (June 2017)
+    - Built two web applications using the Shiny package, (Shiny apps: [Education](https://ashwinikv.shinyapps.io/education/) and [Voting attitudes](https://ashwinikv.shinyapps.io/voting_attitudes/)) 
+- *Demonstrator*, Transportation Systems Engineering, (January - April 2015, October - December 2016 and 2017)
+    - Instructor:  Dr. Konstantinos Ampountolas, School of Engineering
 - *Tutor*, Statistical Inference, (October - December 2015)
-    - Instructor:  Claire Miller, School of Mathematics and Statistics 
+    - Instructor:  Dr. Claire Miller, School of Mathematics and Statistics 
 - *Tutor*, Regression Methods, (October - December 2015)
-    - Instructor:  Surajit Ray, School of Mathematics and Statistics
+    - Instructor:  Dr. Surajit Ray, School of Mathematics and Statistics
  
 
 #### <span style="color:dark blue"> **University of Minnesota-Twin Cities** </span>
 
 - *Assistant*, Research Experience for Undergraduates (REU), (June 9th - July 18th 2014)
-    - Problem Poser: Julian Wolfson, Division of Biostatistics, University of Minnesota.
-    - Faculty Advisor: Vittorio Addona, Department of Mathematics, Statistics, and Computer Science, Macalester College. 
+    - Problem Poser: Dr. Julian Wolfson, Division of Biostatistics, University of Minnesota.
+    - Faculty Advisor: Dr. Vittorio Addona, Department of Mathematics, Statistics, and Computer Science, Macalester College. 
     - Assisted the supervision of 5 undergraduates who worked on improving predictive performance of mode detection by the smartphone application.
 
 - *Summer Teaching Assistant* - Bio statistical Methods I, (Summer 2013)
-    - Instructors: Jeremiah Menk and Laura Le
+    - Instructors: Jeremiah Menk and Dr. Laura Le
 
 - *Teaching Assistant* - Biostatistics I, (Spring 2013)
-    - Instructor:  Julian Wolfson 
+    - Instructor:  Dr. Julian Wolfson 
    

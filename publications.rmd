@@ -1,17 +1,19 @@
 <br />
 
+<div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+
+
 #### <span style="color:dark blue">**Published**</span>:
 
-- Reeta Bora, Sk Shamim Akhtar, **Ashwini Venkatasubramaniam**, Julian Wolfson, Raghavendra Rao (2015), Effect of 40-cm segment umbilical cord milking on hemoglobin and serum ferritin at six months of age in full term infants of anemic and non-anemic mothers. *Journal of Perinatology*
+- Reeta Bora, Sk Shamim Akhtar, **Ashwini Venkatasubramaniam**, Julian Wolfson, Raghavendra Rao (2015), Effect of 40-cm segment umbilical cord milking on hemoglobin and serum ferritin at six months of age in full term infants of anemic and non-anemic mothers. *Journal of Perinatology* [[Link](http://www.nature.com/jp/journal/v35/n10/full/jp201592a.html?foxtrotcallback=true)]
+- **A. Venkatasubramaniam**, J. Wolfson, N. Mitchell, T. Barnes, M. Jaka, S. French (2017), Decision Trees in Epidemiological Research. *Emerging themes in Epidemiology* [[Link](https://ete-online.biomedcentral.com/articles/10.1186/s12982-017-0064-4)]
 
 #### <span style="color:dark blue"> **Accepted**</span>:
 
-- **A. Venkatasubramaniam**, J. Wolfson, N. Mitchell, T. Barnes, M. Jaka, S. French (2017), Decision Trees in Epidemiological Research, *Emerging themes in Epidemiology*, Accepted.
+- **A.Venkatasubramaniam** and J. Wolfson, Classification and regression trees for epidemiology, November 2017, Invited for Publication, *Current Epidemiology Reports*.
 
-#### <span style="color:dark blue">**In Preparation**</span>:
+#### <span style="color:dark blue">**In preparation**</span>:
 
-- **A.Venkatasubramaniam** and J. Wolfson, Classification and regression trees for epidemiology, Invited for Publication, *Current Epidemiology Reports*, November 2017
-- **A. Venkatasubramaniam** and J. Wolfson, visTree: Visualization for conditional inference tree (In Preparation)
-- **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Functional distributional clustering of urban traffic networks using spatio-temporal data (In Preparation)
-- **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Spatio-temporal clustering using distance dependent Chinese restaurant processes for urban traffic networks (In Preparation)
-- **A. Venkatasubramaniam**, L. Erickson, J. Wolfson, Treatment Effect Heterogeneity for Conditional Inference Trees (In Preparation) 
+- **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Functional distributional clustering of urban road networks using spatio-temporal data (In Preparation)
+- **A. Venkatasubramaniam**, L. Evers, K. Ampountolas, Spatial clustering using distance dependent Chinese restaurant processes for urban road networks (In Preparation)
+- **A. Venkatasubramaniam** and J. Wolfson, visTree: Visualization of subgroups for decision trees (In Preparation)

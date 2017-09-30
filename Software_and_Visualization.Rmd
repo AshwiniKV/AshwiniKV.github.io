@@ -1,0 +1,12 @@
+<br />
+
+<div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+
+###Software development:
+
+#####<span style="color:dark blue"> R Packages - Available on Github </span>: 
+
+- **FdiClust** - Functional distributional clustering using spatio-temporal data for urban road networks
+- **visTree** - Visualization of subgroups for decision trees
+
+</div>
