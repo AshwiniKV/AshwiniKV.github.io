@@ -5,7 +5,7 @@
 
 I am currently a PhD in Statistics student at the University of Glasgow, United Kingdom and expect to graduate in October 2018. My supervisors are Dr. Konstantinos Ampountolas, School of Engineering and Dr. Ludger Evers, School of Mathematics and Statistics at the University of Glasgow. I also benefit from the research environment at the [Urban Big Data Centre, University of Glasgow](http://ubdc.ac.uk/) and I'm currently funded by the [Lord Kelvin Adam Smith scholarship](http://www.gla.ac.uk/services/postgraduateresearch/scholarships/kelvinsmith/). 
 
-**Research Interests**: My PhD research is motivated by applications to urban road networks using data with spatial and temporal constraints and I focus on develop clustering methods to identify homogeneous regions within the heterogeneous network. 
+**Research Interests**: My PhD research is motivated by applications to urban road networks using data with spatial and temporal constraints and I focus on developing clustering methods that identify spatially contiguous clusters within a heterogeneous network. 
 
 **Education**: Previously, I received a *Diploma in Economics* from the [University of London](http://www.lse.ac.uk/study/UOLIP/home.aspx) in 2009, a *B.Sc. in Mathematics with Economics* from the [University of East Anglia](https://www.uea.ac.uk/mathematics) in 2011 and a *M.S. in Biostatistics* from the [University of Minnesota, Twin Cities](http://www.sph.umn.edu/academics/divisions/biostatistics/) in 2014. I also spent a year working in actuarial positions in Dubai, United Arab Emirates before deciding to go to graduate school. 
 

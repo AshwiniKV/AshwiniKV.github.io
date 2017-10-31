@@ -1,0 +1,26 @@
+<br />
+
+ <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+
+**Goal:** Determine spatially contiguous clusters in an urban road network using spatio-temporal data. 
+
+**Method I: Functional distributional clustering**
+
+This clustering approach is implemented within an hierarchical agglomerative clustering framework to identify spatially contiguous clusters and the generated set of clusters demand a need for making a choice regarding the number of clusters. We determine the number of clusters by comparing inter and intra-cluster distances. The clustering algorithm is *functional* because it utilises kernel densities to estimate the conditional CDFs that define a measure of distance. The algorithm is also *distributional* because individual observations are recorded over time and the temporal patterns are incorporated in the distance measure.  
+
+**Method II: Novel Bayesian approach** 
+
+This is a formal clustering approach where the number of clusters are determined in a manner entirely driven by the data. The spatial dependency within the network is accommodated for using a modified distance dependent Chinese restaurant process. To fully account for the spatial and temporal dependency within individual clusters, we utilise a spatio-temporal precision matrix. The availability of a unique observation for every space time combination allows for the use of Kronecker product tricks to enhance computational efficiency. The Gibbs sampler enables the algorithm to fully explore potential cluster configurations within the network. 
+</div>
+
+<center><img src="scatter.png" alt="Drawing" style="width: 300px;"/> <img src="network.png" alt="Drawing" style="width: 300px;"/></center>
+
+
+ <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+**Data Sources** 
+
+*Loop detectors:* Recorded data is dependent on the physical location of sensors. This results in richer data across the urban road network. 
+
+*GPS trajectories:* Individual trajectories reflect recorded movement across a network such that there are differences in origin and destination points. This results in a greater coverage of the network but individual locations may have limited information. 
+
+Identifying clusters using multiple sources of data for the same network over a given period of time enhances the accuracy of the determined clusters. 
