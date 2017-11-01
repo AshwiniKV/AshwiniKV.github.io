@@ -5,7 +5,7 @@
 #### <span style="color:dark blue"> **University of Glasgow** </span>
 
 - *Coursework preparation*, Pre-sessional Mathematics, (August - September 2017)
-    - Instructor: Dr. Charalampos Chanialidis, School of Mathematics and Economics
+    - Instructor: Dr. Charalampos Chanialidis, School of Mathematics and Statistics
 - Glasgow Science Festival, (June 2017)
     - Built two web applications using the Shiny package, (Shiny apps: [Education](https://ashwinikv.shinyapps.io/education/) and [Voting attitudes](https://ashwinikv.shinyapps.io/voting_attitudes/)) 
 - *Demonstrator*, Transportation Systems Engineering, (January - April 2015, October - December 2016 and 2017)

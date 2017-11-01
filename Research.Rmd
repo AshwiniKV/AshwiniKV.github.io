@@ -24,3 +24,9 @@ This is a formal clustering approach where the number of clusters are determined
 *GPS trajectories:* Individual trajectories reflect recorded movement across a network such that there are differences in origin and destination points. This results in a greater coverage of the network but individual locations may have limited information. 
 
 Identifying clusters using multiple sources of data for the same network over a given period of time enhances the accuracy of the determined clusters. 
+
+</div>
+
+ <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
+**Other Research**
+</div>
