@@ -220,11 +220,11 @@ $(document).ready(function () {
 
 <p><br /></p>
 <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
-<p><strong>Goal:</strong> Determine spatially contiguous clusters in an urban road network using spatio-temporal data.</p>
+<p><strong>Goal:</strong> Determine spatially contiguous clusters in a grid-style network using spatio-temporal data generated from sensors.</p>
 <p><strong>Method I: Functional distributional clustering</strong></p>
 <p>This clustering approach is implemented within an hierarchical agglomerative clustering framework to identify spatially contiguous clusters and the generated set of clusters demand a need for making a choice regarding the number of clusters. We determine the number of clusters by comparing inter and intra-cluster distances. The clustering algorithm is <em>functional</em> because it utilises kernel densities to estimate the conditional CDFs that define a measure of distance. The algorithm is also <em>distributional</em> because individual observations are recorded over time and the temporal patterns are incorporated in the distance measure.</p>
 <p><strong>Method II: Novel Bayesian approach</strong></p>
-<p>This is a formal clustering approach where the number of clusters are determined in a manner entirely driven by the data. The spatial dependency within the network is accommodated for using a modified distance dependent Chinese restaurant process. To fully account for the spatial and temporal dependency within individual clusters, we utilise a spatio-temporal precision matrix. The availability of a unique observation for every space time combination allows for the use of Kronecker product tricks to enhance computational efficiency. The Gibbs sampler enables the algorithm to fully explore potential cluster configurations within the network.</p>
+<p>This is a formal clustering approach where the number of clusters are determined in a data driven manner. The spatial dependency within the network is accommodated for using a modified distance dependent Chinese restaurant process. To fully account for the spatial and temporal dependency within individual clusters, we utilise a spatio-temporal precision matrix. The availability of a unique observation for every space time combination allows for the use of Kronecker product tricks to enhance computational efficiency. The Metropolis within Gibbs sampler enables the algorithm to fully explore potential cluster configurations within the network.</p>
 </div>
 <center>
 <img src="scatter.PNG" alt="Drawing" style="width: 300px;"/> <img src="network.PNG" alt="Drawing" style="width: 300px;"/>
@@ -234,9 +234,6 @@ $(document).ready(function () {
 <p><em>Loop detectors:</em> Recorded data is dependent on the physical location of sensors. This results in richer data across the urban road network.</p>
 <p><em>GPS trajectories:</em> Individual trajectories reflect recorded movement across a network such that there are differences in origin and destination points. This results in a greater coverage of the network but individual locations may have limited information.</p>
 <p>Identifying clusters using multiple sources of data for the same network over a given period of time enhances the accuracy of the determined clusters.</p>
-</div>
-<div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
-<p><strong>Other Research</strong></p>
 </div>
 
 

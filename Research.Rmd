@@ -2,7 +2,7 @@
 
  <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
 
-**Goal:** Determine spatially contiguous clusters in an urban road network using spatio-temporal data. 
+**Goal:** Determine spatially contiguous clusters in a grid-style network using spatio-temporal data generated from sensors. 
 
 **Method I: Functional distributional clustering**
 
@@ -10,7 +10,7 @@ This clustering approach is implemented within an hierarchical agglomerative clu
 
 **Method II: Novel Bayesian approach** 
 
-This is a formal clustering approach where the number of clusters are determined in a manner entirely driven by the data. The spatial dependency within the network is accommodated for using a modified distance dependent Chinese restaurant process. To fully account for the spatial and temporal dependency within individual clusters, we utilise a spatio-temporal precision matrix. The availability of a unique observation for every space time combination allows for the use of Kronecker product tricks to enhance computational efficiency. The Gibbs sampler enables the algorithm to fully explore potential cluster configurations within the network. 
+This is a formal clustering approach where the number of clusters are determined in a data driven manner. The spatial dependency within the network is accommodated for using a modified distance dependent Chinese restaurant process. To fully account for the spatial and temporal dependency within individual clusters, we utilise a spatio-temporal precision matrix. The availability of a unique observation for every space time combination allows for the use of Kronecker product tricks to enhance computational efficiency. The Metropolis within Gibbs sampler enables the algorithm to fully explore potential cluster configurations within the network. 
 </div>
 
 <center><img src="scatter.png" alt="Drawing" style="width: 300px;"/> <img src="network.png" alt="Drawing" style="width: 300px;"/></center>
@@ -25,8 +25,4 @@ This is a formal clustering approach where the number of clusters are determined
 
 Identifying clusters using multiple sources of data for the same network over a given period of time enhances the accuracy of the determined clusters. 
 
-</div>
-
- <div style="background-color:#F6F9F8 ; text-align:left; vertical-align: middle; border-radius: 25px; padding:20px 47px;">
-**Other Research**
 </div>
